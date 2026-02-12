@@ -40,6 +40,10 @@ simple_front.svg
 
 simple_outline.svg
 
+
+
+Please see pictures of the final product below:
+
 ![2pic1](https://github.com/user-attachments/assets/5f5eb735-a026-4c0e-8e1b-48a9cde8505a)
 ![2pic5](https://github.com/user-attachments/assets/92f67501-b5ff-4568-a4cf-1d0d2c2944cc)
 ![2pic4](https://github.com/user-attachments/assets/7038e74b-6181-4064-8df8-5d48656996db)
