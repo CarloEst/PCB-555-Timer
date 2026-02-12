@@ -4,19 +4,19 @@ The same way it took a lot of trial and error for the PCB to work.
 
 This is a PCB with a 555 Timer with the following components:
 
-555 Timer Cheap
+-555 Timer Cheap
 
-3V Battery
+-3V Battery
 
-2x 4.7 uF Capacitors
+-2x 4.7 uF Capacitors
 
-1x 22 kiloOhms Resistor
+-1x 22 kiloOhms Resistor
 
-1x 68 kiloOhms Resistor
+-1x 68 kiloOhms Resistor
 
-1x 470 KilOhms Resistor
+-1x 470 KilOhms Resistor
 
-1x Red LED
+-1x Red LED
 
 
 The LED is connected to 470 resistor. The 22kO and 68kO resistor are respectively the first and second resistors along the circuit as seen in the design files, and the pictures below.
@@ -25,20 +25,20 @@ The LED is connected to 470 resistor. The 22kO and 68kO resistor are respectivel
 
 The Design folder contains all the kicad files necessary to replicate the design:
 
-555TimerCES Board
+-555TimerCES Board
 
-555TimerCES Schematic
+-555TimerCES Schematic
 
-555TimerCES.kidcad_prl
+-555TimerCES.kidcad_prl
 
 
 We have also have outline svg files for milling:
 
-simple_drill.svg
+-simple_drill.svg
 
-simple_front.svg
+-simple_front.svg
 
-simple_outline.svg
+-simple_outline.svg
 
 
 
