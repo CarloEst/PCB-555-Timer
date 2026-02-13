@@ -1,6 +1,6 @@
 # PCB-555-Timer
-This is a PCB with a 555 Timer chip on a heart-shaped board. I chose a heart shape design because I think that love takes a lot of trial and error for two people to work together.
-The same way it took a lot of trial and error for the PCB to work.
+This is a PCB with a 555 Timer chip on a heart-shaped board. I chose a heart shape design because love takes a lot of trial and error for two people to work together.
+The same way it took a lot of trial and error for all components of the PCB to work together.
 
 This is a PCB with a 555 Timer with the following components:
 
